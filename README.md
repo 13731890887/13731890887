@@ -1,11 +1,10 @@
-## Hi there 👋
+
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=13731890887)
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250§ion=header&text=HI%20THERE!&fontSize=80&fontAlign=50&fontAlignY=30&animation=twinkling" />
 </p>
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&pause=1000&color=37F70C&center=true&vCenter=true&random=true&width=435&height=51&lines=Welcome+to+%E7%91%9F%E5%A5%87%E2%80%98s+home%E2%80%99" alt="Typing SVG" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&duration=800&pause=2000&color=37F70C&center=true&vCenter=true&random=true&width=440&height=54&lines=Welcome+to+seqi's+Home" alt="Typing SVG" /></a>
+
 <!--
 **13731890887/13731890887** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
