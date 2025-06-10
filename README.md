@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250§ion=header&text=HI%20THERE!&fontSize=80&fontAlign=50&fontAlignY=30&animation=twinkling" />
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&pause=1000¢er=true&width=800&height=70&lines=Welcome+to+my+Github+profile!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&pause=1000&color=37F70C&center=true&vCenter=true&random=true&width=435&height=51&lines=Welcome+to+%E7%91%9F%E5%A5%87%E2%80%98s+home%E2%80%99" alt="Typing SVG" />
 </p>
 <!--
 **13731890887/13731890887** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
