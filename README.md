@@ -2,6 +2,9 @@
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=13731890887)
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" />
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250§ion=header&text=HI%20THERE!&fontSize=80&fontAlign=50&fontAlignY=30&animation=twinkling" />
+</p>
 <!--
 **13731890887/13731890887** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
