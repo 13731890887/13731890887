@@ -3,6 +3,9 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250§ion=header&text=HI%20THERE!&fontSize=80&fontAlign=50&fontAlignY=30&animation=twinkling" />
 </p>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&pause=1000¢er=true&width=800&height=70&lines=Welcome+to+my+Github+profile!" />
+</p>
 <!--
 **13731890887/13731890887** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
