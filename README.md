@@ -2,6 +2,7 @@
 
 ### 🚀 About Me
 
+
 <!-- 简化标题区域 -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1000&color=4FACFE&center=true&vCenter=true&width=800&lines=Passionate+Developer+%7C+Open+Source+Enthusiast" alt="Typing SVG">
@@ -15,7 +16,7 @@
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.08);
 ">
   <p style="color: #333; font-size: 18px; line-height: 1.6;">
-    我是一名大学生，热衷于研究人工智能，在深度学习领域，我正系统学习卷积神经网络（CNN）、循环神经网络（RNN）及 Transformer 架构等核心模型，并通过实战项目深化理解。
+      我是一名大学生，热衷于研究人工智能，在深度学习领域，我正系统学习卷积神经网络（CNN）、循环神经网络（RNN）及 Transformer 架构等核心模型，并通过实战项目深化理解。
   </p>
   <p style="color: #555; margin-top: 15px;">
     🔭 Currently working on <strong>AI</strong><br>
@@ -36,6 +37,15 @@
     <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="65">
     <p style="margin-top: 8px; font-weight: 500;">PyTorch</p>
 </div>
+
+
+### 📈 Recent Activity
+
+<!-- 最近活动 -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=react-dark" alt="Activity Graph">
+</div>
+
 
 
 <!--
