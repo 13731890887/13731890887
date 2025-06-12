@@ -38,12 +38,17 @@
     <p style="margin-top: 8px; font-weight: 500;">PyTorch</p>
 </div>
 
+### 📅 My GitHub Activity
 
-### 📈 Recent Activity
+<div align="center" style="margin: 25px 0;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seqi&bg_color=ffffff&color=4facfe&line=4facfe&point=4facfe&area=true&hide_border=true" alt="Activity Graph">
+</div>
 
-<!-- 最近活动 -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=react-dark" alt="Activity Graph">
+
+### 💻 Languages I Use
+
+<div align="center" style="margin: 25px 0;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seqi&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=4facfe&text_color=333" alt="Top Languages">
 </div>
 
 
