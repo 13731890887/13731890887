@@ -65,23 +65,26 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seqi&show_icons=true&title_color=4facfe&text_color=333&icon_color=4facfe&bg_color=fff&hide_border=true" alt="GitHub Stats">
+  <img src="https://stats.quira.sh/seqi/github?theme=dark" alt="GitHub Stats">
 </div>
 
 ---
 
-## 📈 GitHub Activity
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seqi&bg_color=fff&color=4facfe&line=4facfe&point=4facfe&area=true&hide_border=true" alt="Activity Graph">
+  <img src="https://ghchart.rshah.org/seqi" alt="GitHub Contribution Graph">
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Profile Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=seqi&no-frame=true&no-bg=true&title_color=4facfe&text_color=333&icon_color=4facfe" alt="GitHub Trophies">
+  <img src="https://img.shields.io/badge/dynamic/json?label=Followers&query=%24.followers&url=https://api.github.com/users/seqi&logo=github&color=4facfe&labelColor=333&style=for-the-badge" alt="Followers">
+  <img src="https://img.shields.io/badge/dynamic/json?label=Following&query=%24.following&url=https://api.github.com/users/seqi&logo=github&color=4facfe&labelColor=333&style=for-the-badge" alt="Following">
+  <img src="https://img.shields.io/badge/dynamic/json?label=Repos&query=%24.public_repos&url=https://api.github.com/users/seqi&logo=github&color=4facfe&labelColor=333&style=for-the-badge" alt="Repos">
+  <img src="https://img.shields.io/badge/dynamic/json?label=Stars&query=%24[].stargazers_count%20%3C%3C0&url=https://api.github.com/users/seqi/repos&logo=github&color=4facfe&labelColor=333&style=for-the-badge" alt="Stars">
 </div>
 
 ---
