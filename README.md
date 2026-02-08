@@ -41,18 +41,6 @@ Current focus: {'architectures': ['CNN', 'RNN', 'LSTM'], 'advanced': ['Transform
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Seqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=seqi&show_icons=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seqi&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000)
-
-</div>
-
----
-
 ### 🎯 Learning Roadmap
 
 <div align="center">
@@ -64,6 +52,14 @@ Current focus: {'architectures': ['CNN', 'RNN', 'LSTM'], 'advanced': ['Transform
 | 📚 **Current Focus** | Deep Learning fundamentals | Transformer architectures |
 
 </div>
+
+---
+
+### 📈 GitHub Activity
+
+Check out my repositories and contributions directly on my GitHub profile!
+
+🔗 https://github.com/seqi
 
 ---
 
