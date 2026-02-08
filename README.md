@@ -75,42 +75,43 @@
     🌟 学习路线
   </h3>
 
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; max-width: 800px; margin: 0 auto;">
-
-    <div style="
-      background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
-      padding: 25px;
-      border-radius: 16px;
-      text-align: center;
-      box-shadow: 0 10px 30px rgba(245, 87, 108, 0.25);
-    ">
-      <p style="color: #ffffff; font-size: 18px; margin: 0; font-weight: 600;">🧠 基础模型</p>
-      <p style="color: #f0f0f0; font-size: 14px; margin-top: 10px;">CNN • RNN • LSTM</p>
-    </div>
-
-    <div style="
-      background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
-      padding: 25px;
-      border-radius: 16px;
-      text-align: center;
-      box-shadow: 0 10px 30px rgba(79, 172, 254, 0.25);
-    ">
-      <p style="color: #ffffff; font-size: 18px; margin: 0; font-weight: 600;">🚀 进阶架构</p>
-      <p style="color: #f0f0f0; font-size: 14px; margin-top: 10px;">Transformer • BERT • GPT</p>
-    </div>
-
-    <div style="
-      background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);
-      padding: 25px;
-      border-radius: 16px;
-      text-align: center;
-      box-shadow: 0 10px 30px rgba(56, 249, 215, 0.25);
-    ">
-      <p style="color: #ffffff; font-size: 18px; margin: 0; font-weight: 600;">🛠️ 框架工具</p>
-      <p style="color: #f0f0f0; font-size: 14px; margin-top: 10px;">PyTorch • TensorFlow</p>
-    </div>
-
-  </div>
+  <table>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <div style="
+          background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+          padding: 25px 35px;
+          border-radius: 16px;
+          box-shadow: 0 10px 30px rgba(245, 87, 108, 0.25);
+        ">
+          <p style="color: #ffffff; font-size: 18px; margin: 0; font-weight: 600;">🧠 基础模型</p>
+          <p style="color: #f0f0f0; font-size: 14px; margin-top: 10px;">CNN • RNN • LSTM</p>
+        </div>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <div style="
+          background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+          padding: 25px 35px;
+          border-radius: 16px;
+          box-shadow: 0 10px 30px rgba(79, 172, 254, 0.25);
+        ">
+          <p style="color: #ffffff; font-size: 18px; margin: 0; font-weight: 600;">🚀 进阶架构</p>
+          <p style="color: #f0f0f0; font-size: 14px; margin-top: 10px;">Transformer • BERT • GPT</p>
+        </div>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <div style="
+          background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);
+          padding: 25px 35px;
+          border-radius: 16px;
+          box-shadow: 0 10px 30px rgba(56, 249, 215, 0.25);
+        ">
+          <p style="color: #ffffff; font-size: 18px; margin: 0; font-weight: 600;">🛠️ 框架工具</p>
+          <p style="color: #f0f0f0; font-size: 14px; margin-top: 10px;">PyTorch • TensorFlow</p>
+        </div>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
