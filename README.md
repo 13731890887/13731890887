@@ -51,18 +51,16 @@
 <div align="center" style="margin: 35px 0;">
 
   <h3 style="background: linear-gradient(135deg, #667eea, #764ba2); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 26px; margin-bottom: 20px;">
-    📊 GitHub 数据
+    📊 贡献活动
   </h3>
 
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-    <img src="https://img.shields.io/badge/dynamic/json?label=Followers&query=%24.followers&url=https://api.github.com/users/seqi&logo=github&color=667eea&labelColor=eee&style=for-the-badge" alt="Followers">
-    <img src="https://img.shields.io/badge/dynamic/json?label=Following&query=%24.following&url=https://api.github.com/users/seqi&logo=github&color=764ba2&labelColor=eee&style=for-the-badge" alt="Following">
-    <img src="https://img.shields.io/badge/dynamic/json?label=Repos&query=%24.public_repos&url=https://api.github.com/users/seqi&logo=github&color=4facfe&labelColor=eee&style=for-the-badge" alt="Repos">
-    <img src="https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.total_count&url=https://api.github.com/search/repositories?q=%2Buser%3Aseqi&logo=github&color=43e97b&labelColor=eee&style=for-the-badge" alt="Stars">
-  </div>
-
-  <div style="margin-top: 30px;">
-    <img src="https://ghchart.rshah.org/667eea/seqi" alt="GitHub Contribution Graph" style="border-radius: 12px;">
+  <div style="
+    background: #f8f9fa;
+    padding: 25px;
+    border-radius: 16px;
+    display: inline-block;
+  ">
+    <img src="https://ghchart.rshah.org/667eea/seqi" alt="GitHub Contributions">
   </div>
 
 </div>
