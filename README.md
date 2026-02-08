@@ -1,118 +1,135 @@
-<!-- Intro -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1&pause=1000&color=333&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Seqi;AI+Enthusiast+%7C+Deep+Learner;Open+Source+Contributor" alt="Typing SVG">
-  </a>
-</h1>
-
 <div align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%8E%93-Student-brightgreen?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMjIgMTB2Nk0xMiAydjZ00LTJ2NiIvPjwvc3ZnPg==" alt="Student">
-  <img src="https://img.shields.io/badge/%F0%9F%A7%A0-AI%20Researcher-blue?style=flat" alt="AI Researcher">
-  <img src="https://img.shields.io/badge/%F0%9F%92%BB-Python%20Dev-yellow?style=flat&logo=python" alt="Python Developer">
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/seqi">
-    <img src="https://img.shields.io/github/followers/seqi?label=Follow&style=social" alt="GitHub followers">
-  </a>
-</div>
-
-<br/>
-
----
-
-<!-- About Me -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERj/giphy.gif" width="30" height="30" style="vertical-align: -5px;"> About Me
-
-- 🔭 I'm currently studying **Deep Learning** & **AI**
-- 🌱 Learning **CNN**, **RNN**, and **Transformer** architectures
-- 👯 Open to collaborate on **AI/ML** projects
-- 💬 Ask me about **PyTorch**, **Python**, and **Deep Learning**
-- 📫 How to reach me: `your-email@example.com`
-
-<br/>
-
----
-
-<!-- Skills -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=790b7611e44878c919516d6046e3a246d9f9bdcf14f0bbd&rid=giphy.gif&ct=s" width="30" height="30" style="vertical-align: -5px;"> Tech Stack
-
-### 🧠 AI / Machine Learning
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-</div>
-
-### 🛠️ Tools
-<div align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-</div>
-
-<br/>
-
----
-
-<!-- GitHub Stats -->
-## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35" height="35" style="vertical-align: -8px;"> GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seqi&show_icons=true&theme=gotham&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seqi&theme=gotham&hide_border=true" alt="Streak Stats">
+  <pre>
+┌─────────────────────────────────────────────────────────────┐
+│  ██╗   ██╗██╗██████╗ ████████╗██╗   ██╗ █████╗ ██╗          │
+│  ██║   ██║██║██╔══██╗╚══██╔══╝██║   ██║██╔══██╗██║          │
+│  ██║   ██║██║██████╔╝   ██║   ██║   ██║███████║██║          │
+│  ╚██╗ ██╔╝██║██╔══██╗   ██║   ██║   ██║██╔══██║██║          │
+│   ╚████╔╝ ██║██████╔╝   ██║   ╚██████╔╝██║  ██║███████╗     │
+│    ╚═══╝  ╚═╝╚═════╝    ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝     │
+│                                                             │
+│  <span style="color: #00ff00;">[ AI Researcher ]</span>  <span style="color: #00ffff;">[ Deep Learning Enthusiast ]</span>  <span style="color: #ff00ff;">[ Python Dev ]</span>
+└─────────────────────────────────────────────────────────────┘
+  </pre>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seqi&layout=compact&theme=gotham&hide_border=true" alt="Top Languages">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=00ff00&center=true&vCenter=true&width=600&lines=Initializing+systems...;Loading+AI+modules...;Welcome+to+my+profile!;Building+the+future+with+Deep+Learning" alt="Typing SVG">
 </div>
-
-<br/>
-
----
-
-<!-- Learning Path -->
-## <img src="https://media.giphy.com/media/lnT7Z5SpAWWOu1RBsK/giphy.gif" width="35" height="35" style="vertical-align: -8px;"> Learning Path
-
-| Foundation | Advanced | Tools |
-|------------|----------|-------|
-| 🧠 CNN | 🚀 Transformer | ⚙️ PyTorch |
-| 🔄 RNN | 🤖 BERT | 🔧 TensorFlow |
-| 📊 LSTM | 💬 GPT | 📈 Scikit-learn |
-
-<br/>
-
----
-
-<!-- Contact -->
-## <img src="https://media.giphy.com/media/M4NykHK9U6yqk/giphy.gif" width="30" height="30" style="vertical-align: -5px;"> Let's Connect
 
 <div align="center">
   <a href="https://github.com/seqi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff00" alt="GitHub">
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=uptime.com&logoColor=00ff00" alt="Status">
+  <img src="https://img.shields.io/badge/Focus-AI%2FML-blue?style=for-the-badge&logo=pytorch&logoColor=00ffff" alt="Focus">
 </div>
 
-<br/>
+---
+
+```python
+class Seqi(Developer):
+    def __init__(self):
+        self.username = "seqi"
+        self.role = "AI Researcher"
+        self.location = "Earth 🌍"
+        self.learning = ["Deep Learning", "CNN", "RNN", "Transformer"]
+
+    def current_focus(self):
+        return {
+            "architecture": ["CNN", "RNN", "LSTM"],
+            "advanced": ["Transformer", "BERT", "GPT"],
+            "frameworks": ["PyTorch", "TensorFlow"]
+        }
+
+    def get_skills(self):
+        return {
+            "languages": ["Python", "C++"],
+            "ml_frameworks": ["PyTorch", "TensorFlow", "Keras"],
+            "data_science": ["Pandas", "NumPy", "Scikit-learn"],
+            "tools": ["Git", "Docker", "Linux", "VS Code"]
+        }
+
+    def collaborate_on(self):
+        return ["AI/ML Projects", "Deep Learning Research", "Open Source"]
+
+me = Seqi()
+print(me.current_focus())
+```
+
+---
+
+## ⚡ Tech Arsenal
+
+<div align="center">
+
+### 🧠 AI & Machine Learning
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff00" alt="Python">
+<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=ff4d4d" alt="PyTorch">
+<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=ff6f00" alt="TensorFlow">
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=150458" alt="Pandas">
+<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00d4ff" alt="NumPy">
+<img src="https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=ff6f00" alt="Scikit-learn">
+
+### 🛠️ Development Tools
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=f05032" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub">
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=fcc624" alt="Linux">
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ed" alt="Docker">
+<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007acc" alt="VS Code">
+
+</div>
+
+---
+
+## 📊 System Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seqi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ffff&text_color=ffffff" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seqi&theme=tokyonight&hide_border=true&background=000000&stroke=00ff00&ring=00ffff&fire=ff00ff&currStreakLabel=ffffff" alt="Streak Stats" width="48%">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seqi&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00ff00&text_color=ffffff" alt="Top Languages" width="60%">
+</div>
+
+---
+
+## 🚀 Learning Trajectory
+
+<div align="center">
+
+| Level | Technology | Status |
+|-------|-----------|--------|
+| <span style="color: #00ff00;">●</span> Foundation | CNN | `Learning` |
+| <span style="color: #00ffff;">●</span> Foundation | RNN | `Learning` |
+| <span style="color: #ff00ff;">●</span> Foundation | LSTM | `Learning` |
+| <span style="color: #ffff00;">●</span> Advanced | Transformer | `Exploring` |
+| <span style="color: #ff6600;">●</span> Advanced | BERT | `Planning` |
+| <span style="color: #ff0066;">●</span> Advanced | GPT | `Planning` |
+
+</div>
+
+---
+
+## 🔗 Connect
+
+<div align="center">
+  <a href="https://github.com/seqi">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff00&logoSize=auto" alt="GitHub">
+  </a>
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/7No0wEtvKqjisLi4pS/giphy.gif" width="60" alt="Thanks">
-  <p><b>Thanks for visiting! Let's build something amazing together 🚀</b></p>
+  <pre>
+<span style="color: #00ff00;">▌</span> <span style="color: #00ffff;">System Status:</span> Online
+<span style="color: #00ff00;">▌</span> <span style="color: #00ffff;">Current Mission:</span> Building the future with AI
+<span style="color: #00ff00;">▌</span> <span style="color: #00ffff;">Thanks for visiting!</span> Let's create something amazing together
+  </pre>
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%20by%20Seqi-red?style=flat" alt="Made with love">
+  <img src="https://img.shields.io/badge/Made%20with%20%3C3%20by%20Seqi-000000?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmYwMGZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTIwLjg0IDQuNjFhNS41IDUuNSAwIDAgMC03Ljc4IDBMMTIgNS42N2wtMS4wNi0xLjA2YTUuNSA1LjUgMCAwIDAtNy43OCA3Ljc4bDEuMDYgMS4wNkwxMiAyMS4yM2w3Ljc4LTcuNzgxLjA1LS4wNS0uMDUtLjA1ek0xMiAxNy4zbC0zLjc2LTMuNzYgMy43Ni0zLjc2IDMuNzYgMy43Ni0zLjc2IDMuNzZ6Ii8+PC9zdmc+" alt="Made with love">
 </div>
