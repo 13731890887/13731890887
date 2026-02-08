@@ -62,10 +62,26 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seqi&show_icons=true&title_color=4facfe&text_color=333&icon_color=4facfe&bg_color=fff&hide_border=true" alt="GitHub Stats">
+</div>
+
+---
+
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seqi&bg_color=ffffff&color=4facfe&line=4facfe&point=4facfe&area=true&hide_border=true" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seqi&bg_color=fff&color=4facfe&line=4facfe&point=4facfe&area=true&hide_border=true" alt="Activity Graph">
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=seqi&no-frame=true&no-bg=true&title_color=4facfe&text_color=333&icon_color=4facfe" alt="GitHub Trophies">
 </div>
 
 ---
