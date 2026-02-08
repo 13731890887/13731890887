@@ -1,8 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1000&color=4FACFE&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Seqi;Passionate+Developer+%7C+AI+Enthusiast;Deep+Learning+%7C+Computer+Vision" alt="Typing SVG">
 
-  <img src="https://raw.githubusercontent.com/seqi/seqi/output/github-contribution-grid-snake.svg" alt="Snake Animation" style="width: 100%; max-width: 800px;">
-
   <img src="https://profile-counter.glitch.me/seqi/count.svg" alt="Visitor Count">
 </div>
 
@@ -49,16 +47,16 @@
 ### 🤖 AI & Machine Learning
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="AI/ML" width="150">
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" height="60">
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" height="60">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-learn" height="60">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="AI/ML"><br><br>
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-learn">
 </div>
 
 ### 💻 Development Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,bash" alt="Dev Tools" width="400">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,bash" alt="Dev Tools">
 </div>
 
 ---
@@ -66,12 +64,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seqi&show_icons=true&theme=transparent&hide_border=true&bg_color=ffffff&title_color=4facfe&text_color=333&icon_color=4facfe&include_all_commits=true&count_private=true" alt="GitHub Stats" width="800">
+  <img src="https://github-readme-stats.vercel.app/api?username=seqi&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=4facfe&text_color=333&icon_color=4facfe&include_all_commits=true&count_private=true" alt="GitHub Stats">
 </div>
 
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 20px; margin-top: 25px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seqi&layout=compact&theme=transparent&hide_border=true&bg_color=ffffff&title_color=4facfe&text_color=333" alt="Top Languages">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seqi&theme=transparent&hide_border=true&bg_color=ffffff&sideLabels=4facfe&dates=333&currStreakNum=4facfe&fire=4facfe&ring=4facfe" alt="Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seqi&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=4facfe&text_color=333" alt="Top Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seqi&theme=default&hide_border=true&bg_color=ffffff&sideLabels=4facfe&dates=333&currStreakNum=4facfe&fire=4facfe&ring=4facfe" alt="Streak Stats">
 </div>
 
 ---
@@ -87,7 +85,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=seqi&theme=transparent&no-frame=true&no-bg=true&margin-w=10&title_color=4facfe&text_color=333&icon_color=4facfe" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=seqi&theme=default&no-frame=true&no-bg=true&margin-w=10&title_color=4facfe&text_color=333&icon_color=4facfe" alt="GitHub Trophies">
 </div>
 
 ---
@@ -106,7 +104,10 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TrilokTripathi/TrilokTripathi/master/quote.svg" alt="Quote" style="max-width: 600px; margin-top: 30px;">
+  <p style="font-size: 20px; margin: 30px 0 10px 0;">
+    <em>"The only way to do great work is to love what you do."</em>
+  </p>
+  <p style="color: #888; font-size: 14px;">— Steve Jobs</p>
 </div>
 
 ---
