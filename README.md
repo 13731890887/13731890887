@@ -1,7 +1,5 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1000&color=4FACFE&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Seqi;Passionate+Developer+%7C+AI+Enthusiast;Deep+Learning+%7C+Computer+Vision" alt="Typing SVG">
-
-  <img src="https://profile-counter.glitch.me/seqi/count.svg" alt="Visitor Count">
 </div>
 
 ---
@@ -47,7 +45,10 @@
 ### 🤖 AI & Machine Learning
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="AI/ML"><br><br>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="AI/ML">
+</div>
+
+<div align="center" style="margin-top: 15px;">
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-learn">
@@ -56,7 +57,7 @@
 ### 💻 Development Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,bash" alt="Dev Tools">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" alt="Dev Tools">
 </div>
 
 ---
@@ -64,28 +65,23 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seqi&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=4facfe&text_color=333&icon_color=4facfe&include_all_commits=true&count_private=true" alt="GitHub Stats">
-</div>
-
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 20px; margin-top: 25px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seqi&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=4facfe&text_color=333" alt="Top Languages">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seqi&theme=default&hide_border=true&bg_color=ffffff&sideLabels=4facfe&dates=333&currStreakNum=4facfe&fire=4facfe&ring=4facfe" alt="Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=seqi&show_icons=true&hide_border=true&title_color=4facfe&text_color=333&icon_color=4facfe" alt="GitHub Stats">
 </div>
 
 ---
 
 ## 📈 GitHub Activity
 
-<div align="center" style="margin: 25px 0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seqi&bg_color=ffffff&color=4facfe&line=4facfe&point=4facfe&area=true&hide_border=true&radius=15" alt="Activity Graph">
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seqi&bg_color=ffffff&color=4facfe&line=4facfe&point=4facfe&area=true&hide_border=true" alt="Activity Graph">
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=seqi&theme=default&no-frame=true&no-bg=true&margin-w=10&title_color=4facfe&text_color=333&icon_color=4facfe" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=seqi&no-frame=true&no-bg=true&title_color=4facfe&text_color=333&icon_color=4facfe" alt="GitHub Trophies">
 </div>
 
 ---
@@ -115,8 +111,5 @@
 <div align="center">
   <p style="color: #888; font-size: 14px;">
     Made with ❤️ by Seqi
-  </p>
-  <p style="color: #888; font-size: 12px; margin-top: 10px;">
-    ⭐ Star this repo if you find it interesting!
   </p>
 </div>
