@@ -1,141 +1,118 @@
+<!-- Intro -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1&pause=1000&color=333&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Seqi;AI+Enthusiast+%7C+Deep+Learner;Open+Source+Contributor" alt="Typing SVG">
+  </a>
+</h1>
+
 <div align="center">
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=667eea&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Seqi;AI+Researcher+%7C+Deep+Learning;Open+Source+Enthusiast;Building+the+Future+with+AI" alt="Typing SVG">
-
-  <div style="margin: 25px 0;">
-    <a href="https://github.com/seqi" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub">
-    </a>
-    <a href="mailto:your-email@example.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=flat-square" alt="Email">
-    </a>
-  </div>
-
+  <img src="https://img.shields.io/badge/%F0%9F%8E%93-Student-brightgreen?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMjIgMTB2Nk0xMiAydjZ00LTJ2NiIvPjwvc3ZnPg==" alt="Student">
+  <img src="https://img.shields.io/badge/%F0%9F%A7%A0-AI%20Researcher-blue?style=flat" alt="AI Researcher">
+  <img src="https://img.shields.io/badge/%F0%9F%92%BB-Python%20Dev-yellow?style=flat&logo=python" alt="Python Developer">
 </div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/seqi">
+    <img src="https://img.shields.io/github/followers/seqi?label=Follow&style=social" alt="GitHub followers">
+  </a>
+</div>
+
+<br/>
 
 ---
 
-<div style="
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  border-radius: 24px;
-  padding: 40px;
-  margin: 30px 0;
-  box-shadow: 0 20px 60px rgba(102, 126, 234, 0.35);
-">
+<!-- About Me -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERj/giphy.gif" width="30" height="30" style="vertical-align: -5px;"> About Me
 
-  <div align="center">
-    <img src="https://img.shields.io/badge/%F0%9F%8E%93-大学生-43e97b?style=for-the-badge&color=43e97b" alt="Student">
-    <img src="https://img.shields.io/badge/%F0%9F%A4%96-AI研究者-667eea?style=for-the-badge&color=667eea" alt="AI Researcher">
-    <img src="https://img.shields.io/badge/%F0%9F%A7%A0-深度学习-4facfe?style=for-the-badge&color=4facfe" alt="Deep Learning">
-  </div>
+- 🔭 I'm currently studying **Deep Learning** & **AI**
+- 🌱 Learning **CNN**, **RNN**, and **Transformer** architectures
+- 👯 Open to collaborate on **AI/ML** projects
+- 💬 Ask me about **PyTorch**, **Python**, and **Deep Learning**
+- 📫 How to reach me: `your-email@example.com`
 
-  <p style="color: #ffffff; font-size: 17px; line-height: 2; margin-top: 25px; text-align: center;">
-    热衷于探索人工智能的无限可能，专注于深度学习领域的研究与实践。
-  </p>
-
-  <p style="color: #f0f0f0; font-size: 16px; line-height: 1.9; margin-top: 20px; text-align: center;">
-    正在系统学习卷积神经网络（CNN）、循环神经网络（RNN）及 Transformer 架构等核心模型，通过实战项目深化理解。相信技术能够改变世界！
-  </p>
-
-  <div align="center" style="margin-top: 30px;">
-    <span style="color: #f0f0f0; font-size: 15px;">🔬 研究方向：</span>
-    <span style="color: #ffffff; font-weight: 600; font-size: 15px; margin-left: 8px;">计算机视觉</span>
-    <span style="color: #ffffff; font-size: 15px; margin: 0 10px;">•</span>
-    <span style="color: #ffffff; font-weight: 600; font-size: 15px;">自然语言处理</span>
-  </div>
-
-</div>
+<br/>
 
 ---
 
-<div align="center" style="margin: 35px 0;">
+<!-- Skills -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=790b7611e44878c919516d6046e3a246d9f9bdcf14f0bbd&rid=giphy.gif&ct=s" width="30" height="30" style="vertical-align: -5px;"> Tech Stack
 
-  <h3 style="background: linear-gradient(135deg, #667eea, #764ba2); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 26px; margin-bottom: 20px;">
-    📊 贡献活动
-  </h3>
-
-  <div style="
-    background: #f8f9fa;
-    padding: 25px;
-    border-radius: 16px;
-    display: inline-block;
-  ">
-    <img src="https://ghchart.rshah.org/667eea/seqi" alt="GitHub Contributions">
-  </div>
-
+### 🧠 AI / Machine Learning
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
 </div>
+
+### 🛠️ Tools
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</div>
+
+<br/>
 
 ---
 
-<div align="center" style="margin: 35px 0;">
+<!-- GitHub Stats -->
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35" height="35" style="vertical-align: -8px;"> GitHub Stats
 
-  <h3 style="background: linear-gradient(135deg, #667eea, #764ba2); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 26px; margin-bottom: 25px;">
-    🌟 学习路线
-  </h3>
-
-  <table>
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <div style="
-          background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
-          padding: 25px 35px;
-          border-radius: 16px;
-          box-shadow: 0 10px 30px rgba(245, 87, 108, 0.25);
-        ">
-          <p style="color: #ffffff; font-size: 18px; margin: 0; font-weight: 600;">🧠 基础模型</p>
-          <p style="color: #f0f0f0; font-size: 14px; margin-top: 10px;">CNN • RNN • LSTM</p>
-        </div>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <div style="
-          background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
-          padding: 25px 35px;
-          border-radius: 16px;
-          box-shadow: 0 10px 30px rgba(79, 172, 254, 0.25);
-        ">
-          <p style="color: #ffffff; font-size: 18px; margin: 0; font-weight: 600;">🚀 进阶架构</p>
-          <p style="color: #f0f0f0; font-size: 14px; margin-top: 10px;">Transformer • BERT • GPT</p>
-        </div>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <div style="
-          background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);
-          padding: 25px 35px;
-          border-radius: 16px;
-          box-shadow: 0 10px 30px rgba(56, 249, 215, 0.25);
-        ">
-          <p style="color: #ffffff; font-size: 18px; margin: 0; font-weight: 600;">🛠️ 框架工具</p>
-          <p style="color: #f0f0f0; font-size: 14px; margin-top: 10px;">PyTorch • TensorFlow</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seqi&show_icons=true&theme=gotham&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seqi&theme=gotham&hide_border=true" alt="Streak Stats">
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seqi&layout=compact&theme=gotham&hide_border=true" alt="Top Languages">
+</div>
+
+<br/>
 
 ---
 
-<div align="center" style="margin: 40px 0;">
+<!-- Learning Path -->
+## <img src="https://media.giphy.com/media/lnT7Z5SpAWWOu1RBsK/giphy.gif" width="35" height="35" style="vertical-align: -8px;"> Learning Path
 
-  <h3 style="background: linear-gradient(135deg, #667eea, #764ba2); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 26px; margin-bottom: 20px;">
-    📬 联系我
-  </h3>
+| Foundation | Advanced | Tools |
+|------------|----------|-------|
+| 🧠 CNN | 🚀 Transformer | ⚙️ PyTorch |
+| 🔄 RNN | 🤖 BERT | 🔧 TensorFlow |
+| 📊 LSTM | 💬 GPT | 📈 Scikit-learn |
 
-  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-    <a href="https://github.com/seqi" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge&logoWidth=20" alt="GitHub">
-    </a>
-    <a href="mailto:your-email@example.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge&logoWidth=20" alt="Email">
-    </a>
-  </div>
-
-</div>
+<br/>
 
 ---
 
-<div align="center" style="margin-top: 50px;">
-  <p style="color: #888; font-size: 13px;">
-    © 2024 Seqi • Built with ❤️
-  </p>
+<!-- Contact -->
+## <img src="https://media.giphy.com/media/M4NykHK9U6yqk/giphy.gif" width="30" height="30" style="vertical-align: -5px;"> Let's Connect
+
+<div align="center">
+  <a href="https://github.com/seqi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/7No0wEtvKqjisLi4pS/giphy.gif" width="60" alt="Thanks">
+  <p><b>Thanks for visiting! Let's build something amazing together 🚀</b></p>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%20by%20Seqi-red?style=flat" alt="Made with love">
 </div>
