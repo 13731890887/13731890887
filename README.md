@@ -62,18 +62,3 @@ Check out my repositories and contributions directly on my GitHub profile!
 </p>
 
 ---
-
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════╗
-║  System Status: ▶ Online                            ║
-║  Current Mission: Building the future with AI        ║
-║  Thanks for visiting! Let's create something amazing ║
-╚══════════════════════════════════════════════════════╝
-```
-
-Made with ❤️ by Seqi
-
-</div>
