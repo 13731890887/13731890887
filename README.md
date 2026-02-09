@@ -29,12 +29,6 @@
 └─────────────────────────────────────┘
 ```
 
-**🔭 Currently Exploring**
-&nbsp;&nbsp;CNN • RNN • LSTM • Transformer • BERT • GPT
-
-**🤝 Open to Collaborate On**
-&nbsp;&nbsp;AI/ML Projects • Deep Learning Research • Open Source
-
 </div>
 
 ---
@@ -46,20 +40,6 @@
 
 **Development Tools**
 `Git` • `GitHub` • `Linux` • `Docker` • `VS Code` • `C++`
-
----
-
-### 🎯 Learning Roadmap
-
-<div align="center">
-
-| | Foundation | Advanced |
-|---|---|---|
-| 🔬 **Architectures** | CNN • RNN • LSTM | Transformer • BERT • GPT |
-| 🛠️ **Frameworks** | NumPy • Pandas | PyTorch • TensorFlow • Keras |
-| 📚 **Current Focus** | Deep Learning fundamentals | Transformer architectures |
-
-</div>
 
 ---
 
