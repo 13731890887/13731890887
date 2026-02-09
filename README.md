@@ -71,6 +71,14 @@ Check out my repositories and contributions directly on my GitHub profile!
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/13731890887/13731890887/output/github-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 
 <div align="center">
 
