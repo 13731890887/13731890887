@@ -1,17 +1,3 @@
-<p align="center">
-  <code>Hey there 👋, I'm Seqi</code>
-</p>
-
-<p align="center">
-  <b>AI Researcher</b> • <b>Deep Learning Enthusiast</b> • <b>Python Developer</b>
-</p>
-
-<p align="center">
-  <i>Building the future with Deep Learning 🚀</i>
-</p>
-
----
-
 ### 👤 About Me
 
 <div align="center">
