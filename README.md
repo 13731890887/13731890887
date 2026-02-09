@@ -67,7 +67,7 @@
 
 Check out my repositories and contributions directly on my GitHub profile!
 
-🔗 https://github.com/seqi
+
 
 ---
 
