@@ -14,20 +14,28 @@
 
 ### 👤 About Me
 
-```python
->>> about_me = {
-...     "name": "Seqi",
-...     "role": "AI Researcher",
-...     "learning": ["Deep Learning", "CNN", "RNN", "Transformer"],
-...     "focus": {
-...         "architectures": ["CNN", "RNN", "LSTM"],
-...         "advanced": ["Transformer", "BERT", "GPT"],
-...         "frameworks": ["PyTorch", "TensorFlow"]
-...     }
-... }
->>> print(f"Current focus: {about_me['focus']}")
-Current focus: {'architectures': ['CNN', 'RNN', 'LSTM'], 'advanced': ['Transformer', 'BERT', 'GPT'], 'frameworks': ['PyTorch', 'TensorFlow']}
+<div align="center">
+
 ```
+┌─────────────────────────────────────┐
+│         &nbsp;  👨‍💻  &nbsp;WHO AM I?&nbsp;         │
+├─────────────────────────────────────┤
+│ • Name:    Seqi                     │
+│ • Role:    AI Researcher            │
+│ • Focus:   Deep Learning & AI       │
+│ • Mission: Building intelligent    │
+│            systems with neural      │
+│            networks                 │
+└─────────────────────────────────────┘
+```
+
+**🔭 Currently Exploring**
+&nbsp;&nbsp;CNN • RNN • LSTM • Transformer • BERT • GPT
+
+**🤝 Open to Collaborate On**
+&nbsp;&nbsp;AI/ML Projects • Deep Learning Research • Open Source
+
+</div>
 
 ---
 
