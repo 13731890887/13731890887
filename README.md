@@ -71,15 +71,6 @@ Check out my repositories and contributions directly on my GitHub profile!
 
 ---
 
-### 🔗 Connect
-
-<div align="center">
-
-**GitHub**: https://github.com/seqi
-
-</div>
-
----
 
 <div align="center">
 
