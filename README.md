@@ -75,7 +75,7 @@ Check out my repositories and contributions directly on my GitHub profile!
 
 <div align="center">
 
-**GitHub**: [@seqi](https://github.com/seqi)
+**GitHub**: https://github.com/seqi
 
 </div>
 
