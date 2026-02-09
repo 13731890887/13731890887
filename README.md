@@ -16,18 +16,11 @@
 
 <div align="center">
 
-```
-┌─────────────────────────────────────┐
-│         &nbsp;  👨‍💻  &nbsp;WHO AM I?&nbsp;         │
-├─────────────────────────────────────┤
-│ • Name:    Seqi                     │
-│ • Role:    AI Researcher            │
-│ • Focus:   Deep Learning & AI       │
-│ • Mission: Building intelligent    │
-│            systems with neural      │
-│            networks                 │
-└─────────────────────────────────────┘
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=00ff00&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B;I'm+Seqi%2C+an+AI+Researcher;Deep+Learning+Enthusiast+%7C+Python+Dev;Welcome+to+my+profile!" alt="Typing SVG">
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1500&color=00ffff&center=true&vCenter=true&repeat=true&width=500&lines=Currently+exploring:+CNN+%E2%80%A2+RNN+%E2%80%A2+LSTM;Learning:+Transformers+%E2%80%A2+BERT+%E2%80%A2+GPT;Frameworks:+PyTorch+%E2%80%A2+TensorFlow;Open+to+collaborate+on+AI/ML+projects" alt="Skills Typing">
 
 </div>
 
