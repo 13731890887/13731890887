@@ -14,11 +14,28 @@
 
 ### 🧠 Tech Stack
 
-**AI / Machine Learning**
-`Python` • `PyTorch` • `TensorFlow` • `Keras` • `Pandas` • `NumPy` • `Scikit-learn`
+<div align="center">
 
-**Development Tools**
-`Git` • `GitHub` • `Linux` • `Docker` • `VS Code` • `C++`
+**🔬 AI / Machine Learning**
+
+<span style="color: #3776AB;"><b>`Python`</b></span> ·
+<span style="color: #EE4C2C;"><b>`PyTorch`</b></span> ·
+<span style="color: #FF6F00;"><b>`TensorFlow`</b></span> ·
+<span style="color: #D00000;"><b>`Keras`</b></span> ·
+<span style="color: #150458;"><b>`Pandas`</b></span> ·
+<span style="color: #013243;"><b>`NumPy`</b></span> ·
+<span style="color: #F7931E;"><b>`Scikit-learn`</b></span>
+
+**🛠️ Development Tools**
+
+<span style="color: #F05032;"><b>`Git`</b></span> ·
+<span style="color: #181717;"><b>`GitHub`</b></span> ·
+<span style="color: #FCC624;"><b>`Linux`</b></span> ·
+<span style="color: #2496ED;"><b>`Docker`</b></span> ·
+<span style="color: #007ACC;"><b>`VS Code`</b></span> ·
+<span style="color: #00599C;"><b>`C++`</b></span>
+
+</div>
 
 ---
 
